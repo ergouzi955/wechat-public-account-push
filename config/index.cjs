@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wx6641c019d12da0de',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'mwWJ7T7NujaZUzKjZlMHy07l_F9dQEnCXueNwRlz1Xg',
+  APP_SECRET: 'SxNPlXNR7hkPKFmd6yO16JNJHJ1OOOWI0esjtJ0NoHg',
 
   PROVINCE: '大连',
   CITY: '大连',
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '自己',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oAJx66G5u2QwuZ_tw5PqoNAQw8o4',
+      id: 'oAJx66JmNvW-I1Y009ANu_VvjgFk',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'DuuaPoaq1vKrCY9jXrJ1ji2RUi15_ObSIQ_wq1U-iWM',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -51,13 +51,13 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'mwWJ7T7NujaZUzKjZlMHy07l_F9dQEnCXueNwRlz1Xg',
+  CALLBACK_TEMPLATE_ID: 'SxNPlXNR7hkPKFmd6yO16JNJHJ1OOOWI0esjtJ0NoHg',
 
   CALLBACK_USERS: [
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oAJx66G5u2QwuZ_tw5PqoNAQw8o4',
+      id: 'oAJx66JmNvW-I1Y009ANu_VvjgFk',
     }
   ],
 
